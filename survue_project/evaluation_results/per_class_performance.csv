@@ -1,0 +1,4 @@
+Class,mAP@0.5,Precision,Recall,F1-Score
+Human,33.27%,87.44%,47.49%,61.55%
+Trafficsign,29.95%,64.79%,47.47%,54.79%
+Vehicle,42.86%,78.61%,52.95%,63.28%
